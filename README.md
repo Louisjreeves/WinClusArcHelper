@@ -18,7 +18,7 @@ Windows Cluster and Arc Enabled Azure Local Instance Support
 Link to download and administer here: 
 
 ``` Powershell
-echo WinClusArcHelper; [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; (New-Object Net.WebClient).DownloadFile('https://github.com/Louisjreeves/WinClusArcHelper/raw/refs/heads/main/RunHelp.ps1','RunHelp.ps1'); & .\RunHelp.ps1
+echo WinClusArcHelper; [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12; $path=Join-Path $PWD 'RunHelp.ps1'; (New-Object Net.WebClient).DownloadFile('https://github.com/Louisjreeves/WinClusArcHelper/raw/refs/heads/main/RunHelp.ps1', $path); & $path
 ```
 
 
