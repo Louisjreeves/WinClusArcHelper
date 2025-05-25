@@ -27,3 +27,8 @@ Below is some examples of what the automation looks like :
 
 ![image](https://github.com/user-attachments/assets/85669fd7-db0f-4f4d-a2ee-0aab0e110394)
 
+# Special #8 Log collector will go out and give a survey of the number of keywords detected by line in the log sets #
+
+![image](https://github.com/user-attachments/assets/b6ccac1f-1976-496d-a7b9-1b37d4dd5e8d)
+
+
