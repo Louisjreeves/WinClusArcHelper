@@ -1,4 +1,5 @@
 # WinClusArcHelper
+# Azure Local Info Collection system (Alics)
 
 ### AZURE LOCAL INFO CAPTURE Session (ALICS) May help for some small part of your day###
 A set of scripts for Logs Security and other Related Cluster Deployment and Maintenance Items for Azure Local and Arc Enabled Buisness
