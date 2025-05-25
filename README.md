@@ -24,5 +24,6 @@ echo WinClusArcHelper; [Net.ServicePointManager]::SecurityProtocol = [Net.Securi
 
 Below is some examples of what the automation looks like : 
 
-!![image](https://github.com/user-attachments/assets/f5c02f82-8ff6-4e83-a4b7-24df4f5c6d68)
+
+![image](https://github.com/user-attachments/assets/85669fd7-db0f-4f4d-a2ee-0aab0e110394)
 
